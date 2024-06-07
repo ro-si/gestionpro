@@ -1,0 +1,70 @@
+[31-Mar-2024 21:48:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:23
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 23
+[31-Mar-2024 21:48:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:23
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 23
+[31-Mar-2024 21:49:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:23
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 23
+[31-Mar-2024 21:49:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:23
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 23
+[31-Mar-2024 21:50:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:23
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 23
+[31-Mar-2024 21:50:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:23
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 23
+[31-Mar-2024 21:54:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:23
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 23
+[31-Mar-2024 21:54:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:23
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(23): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 23
+[31-Mar-2024 21:55:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 8 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:24
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 24
+[31-Mar-2024 21:55:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 8 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:24
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 24
+[31-Mar-2024 21:55:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 8 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:24
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 24
+[31-Mar-2024 21:55:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 8 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:24
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 24
+[31-Mar-2024 21:55:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 8 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:24
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 24
+[31-Mar-2024 21:57:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 8 in /home/spcom1/public_html/rosine/gestionpro/useronli.php:24
+Stack trace:
+#0 /home/spcom1/public_html/rosine/gestionpro/useronli.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/spcom1/public_html/rosine/gestionpro/useronli.php on line 24

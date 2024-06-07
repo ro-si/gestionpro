@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+
+    margin: 0;
+}
+
+nav{
+    background-color: #28344A;
+    display: flex;
+    padding-left: 50em;
+    padding-top: 2rem;
+    
+    
+}
+
+.ass{
+    display: flex;
+    gap: 3em;
+}
+ .ass a{
+    color: white;
+    text-decoration: none;   
+   
+}
+
+.circle {
+    width: 40vh;
+    height: 40vh;
+    background-color: #4A62DD; /* Couleur de fond */
+    border-radius: 50%; /* Rendre le div rond */
+    position: absolute;
+    top: 0;
+    left: 35%; /* Pour centrer horizontalement */
+    transform: translateX(-220%); /* Pour centrer horizontalement */
+    
+}
+
+main{
+    background-color: #28344A;
+    padding-bottom: 100px;
+
+    padding-top: 100px;
+}
+
+

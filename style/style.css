@@ -1,0 +1,210 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    height: auto;
+}
+
+/*navbar*/
+/*navbar*/
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    min-width: 400px;
+    padding: 14px 40px;
+    background-color: #FAFAFE;
+    
+}
+
+.navbar :hover{
+    text-decoration: solid;
+    color: rgb(90, 72, 196);
+
+}
+
+.navbar img{
+   position: relative;
+    display: none;
+
+    
+}
+ 
+@media screen and  (max-width: 767px) {
+    .navbar img{
+        display: block; 
+        padding-right: 147px; 
+        color: white;
+    }
+    
+}
+
+.hidden{
+    display: none;
+    
+}
+.menuu {
+    padding: 14px 20px;
+    color: rgb(2, 2, 2);
+}
+@media screen and  (max-width: 767px) {
+    .menuu{
+        display: none;  
+
+    }
+    
+}
+
+.menuu li{
+    display: flex;
+    gap: 3em;
+}
+.menuu a{
+    color: rgb(8, 8, 8);
+    gap: 3em;   
+}
+
+
+.ic a{
+    color: rgb(10, 10, 10);
+}
+.container{
+
+    position: relative;
+    width: 100%; /* ou une largeur fixe selon vos besoins */
+    height: 1em; /* ou une hauteur fixe selon vos besoins */
+
+}
+.circle {
+    width: 40vh;
+    height: 40vh;
+    background-color: #4A62DD; /* Couleur de fond */
+    border-radius: 50%; /* Rendre le div rond */
+    position: absolute;
+    top: 0;
+    left: 35%; /* Pour centrer horizontalement */
+    transform: translateX(-220%); /* Pour centrer horizontalement */
+    
+}
+
+
+.containe{
+    position: relative;
+    width: 40%; /* ou une largeur fixe selon vos besoins */
+    height: 2em; /* ou une hauteur fixe selon vos besoins */
+
+}
+
+.circlee{
+    width: 20vh;
+    height: 20vh;
+    background-color: #4A62DD; /* Couleur de fond */
+    border-radius: 50%; /* Rendre le div rond */
+    position: absolute;
+    top: 0;
+    left: 20%; /* Pour centrer horizontalement */
+    transform: translateX(-50%); /* Pour centrer horizontalement */
+}
+@media screen  and (max-width: 767px) {
+    .circlee{
+     width: 10vh;
+    height: 10vh;
+    background-color: #4A62DD; /* Couleur de fond */
+    border-radius: 50%; /* Rendre le div rond */
+    position: absolute;
+    top: 250%;
+    left: 0; /* Pour centrer horizontalement */
+    /* Pour centrer horizontalement */
+    }
+
+    
+}
+
+section{
+    background-color: #FAFAFE;
+    height: 80vh;
+   
+    
+}
+
+.hidden {
+    display: none;
+}
+
+main{
+    padding: 10rem;
+    /*position: fixed;*/
+    
+}
+
+
+@media screen  and (max-width: 767px) {
+   main{
+    padding-top: 0px;
+   }
+
+    
+}
+main h1{
+    display: flex;
+    justify-content: center;
+    font-size: 3.5em;
+    padding-bottom: 2rem;
+    
+}
+
+main p{
+    display: flex;
+    justify-content: center;
+    font-size: 1.5em;
+}
+
+.boot {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    font-size: 1.3em;
+}
+
+
+
+.boot button{
+    background-color: white;
+    border-radius: 1em;
+    border: 1.5px solid #17A2B8;
+    padding: 1em;
+    color: #17A2B8;
+   
+}
+
+footer{
+    background-color: #485AD2;
+    margin-top: 16px;
+ 
+}
+@media screen and (max-width: 767px) {
+    footer{
+        min-width: 50%;
+        margin-top: 0px;
+    }
+}
+
+footer .acc a{
+    text-decoration: none;
+    color: white;
+    padding-top: 1rem;
+}
+
+footer .acc{
+    display: flex;
+    gap: 1em;
+    padding: 16px;
+}
+
+footer .acc :hover{
+    color: black;
+}
